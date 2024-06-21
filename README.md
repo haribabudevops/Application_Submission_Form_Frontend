@@ -64,4 +64,4 @@ ApplicationSubmissionForm/
 - **Ctrl + S**: Submit the form in Create New Submissions Form.
 
 ## License
-This project is licensed under the MIT License.
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
