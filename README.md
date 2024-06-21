@@ -18,7 +18,7 @@ This is a Windows desktop application created with Visual Basic to manage form s
 ### Frontend (Windows Desktop Application)
 1. **Clone the repository**:
     ```sh
-    https://github.com/haribabudevops/Google_Replica_Form.git
+    https://github.com/haribabudevops/Application_Submission_Form_Frontend.git
     ```
 2. **Open the solution**:
     - Open Visual Studio.
@@ -27,3 +27,41 @@ This is a Windows desktop application created with Visual Basic to manage form s
 3. **Build and run the project**:
     - Click on `Build > Build Solution`.
     - Click on `Debug > Start Debugging` or press `F5`.
+
+## Project Structure
+ApplicationSubmissionForm/
+├── My Project/
+│ ├── Application.Designer.vb
+│ ├── Application.myapp
+├── ApplicationEvents.vb
+├── ApplicationSubmissionForm.vbproj
+├── CreateNewSubmissions.Designer.vb
+├── CreateNewSubmissions.resx
+├── CreateNewSubmissions.vb
+├── Form1.Designer.vb
+├── Form1.resx
+├── Form1.vb
+├── ViewSubmissions.Designer.vb
+├── ViewSubmissions.resx
+├── ViewSubmissions.vb
+├── .gitattributes
+├── .gitignore
+├── ApplicationSubmissionForm.sln
+└── README.md
+
+## File Descriptions
+- **CreateNewSubmissions.vb**: Form to create new submissions with a stopwatch.
+- **ViewSubmissions.vb**: Form to view existing submissions with navigation buttons.
+- **MainForm.vb**: Main form with buttons to navigate to Create New Submissions and View Submissions forms.
+- **SubmissionInfo.vb**: Class to hold submission information.
+
+## Keyboard Shortcuts
+- **Ctrl + V**: View Submissions.
+- **Ctrl + P**: Previous in View Submissions Form.
+- **Ctrl + N**: Next in View Submissions Form.
+- **Ctrl + N**: Create New Submission.
+- **Ctrl + T**: Toggle the stopwatch in Create New Submissions Form.
+- **Ctrl + S**: Submit the form in Create New Submissions Form.
+
+## License
+This project is licensed under the MIT License.
