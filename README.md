@@ -1,5 +1,4 @@
 # ApplicationSubmissionForm
-# Submission App
 
 This is a Windows desktop application created with Visual Basic to manage form submissions. The application allows users to create new submissions and view existing submissions.
 
