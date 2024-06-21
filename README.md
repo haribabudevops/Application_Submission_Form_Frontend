@@ -17,7 +17,7 @@ This is a Windows desktop application created with Visual Basic to manage form s
 ### Frontend (Windows Desktop Application)
 1. **Clone the repository**:
     ```sh
-    https://github.com/haribabudevops/Application_Submission_Form_Frontend.git
+    https://github.com/haribabudevops/Desktop_App.git
     ```
 2. **Open the solution**:
     - Open Visual Studio.
